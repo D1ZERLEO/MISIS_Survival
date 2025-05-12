@@ -1,0 +1,5 @@
+C:/Users/user/Downloads/Hoosegow_ MISIS_ Survival/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Downloads/Hoosegow_ MISIS_ Survival/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Downloads/Hoosegow_ MISIS_ Survival/out/build/x64-Debug/game/CMakeFiles/Hoosegow_MISIS_Survival.dir
+C:/Users/user/Downloads/Hoosegow_ MISIS_ Survival/out/build/x64-Debug/game/CMakeFiles/edit_cache.dir
+C:/Users/user/Downloads/Hoosegow_ MISIS_ Survival/out/build/x64-Debug/game/CMakeFiles/rebuild_cache.dir
